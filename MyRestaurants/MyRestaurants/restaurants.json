@@ -1,0 +1,20 @@
+[
+    { "name": "Domino's", "category": "Pizza", "cost": "$$" },
+  { "name": "McDonald's", "category": "Burgers", "cost": "$" },
+  { "name": "Olive Garden", "category": "Italian", "cost": "$$$" },
+  { "name": "Chipotle", "category": "Mexican", "cost": "$$" },
+  { "name": "Heritage Asian Eatery", "category": "Asian", "cost": "$$$" },
+  { "name": "Breka Bakery Cafe", "category": "Breakfast", "cost": "$$" },
+  { "name": "Rio Steakhouse", "category": "Brazilian", "cost": "$$$" },
+  { "name": "A Taste Of India", "category": "Indian", "cost": "$$" },
+  { "name": "Falafel King", "category": "Lebanese", "cost": "$" },
+  { "name": "Pizza Hut", "category": "Pizza", "cost": "$$" },
+  { "name": "Freshslice Pizza", "category": "Pizza", "cost": "$" },
+  { "name": "Burger King", "category": "Burgers", "cost": "$" },
+  { "name": "Tavola", "category": "Italian", "cost": "$$$" },
+  { "name": "Jingle Bao", "category": "Asian", "cost": "$$" },
+  { "name": "Mumbai Local Restaurant", "category": "Indian", "cost": "$" },
+  { "name": "CinCin Ristorante", "category": "Italian", "cost": "$$" },
+  { "name": "Sapporo Ramen", "category": "Asian", "cost": "$$" },
+]
+
